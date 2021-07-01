@@ -9,7 +9,3 @@ new
 new
 
 
-
-new line will be killed
-
-
