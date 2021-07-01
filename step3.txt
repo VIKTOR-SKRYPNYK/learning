@@ -2,4 +2,8 @@ And Again
 And now I'm writting new string
 I easy learn programming 
 And I'm very happy about it
+new
+new
+new
+new
 
